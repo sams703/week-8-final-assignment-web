@@ -26,5 +26,5 @@ images/       → Images
 3. Access your live site via the GitHub Pages URL.
 
 ## 📧 Author
-- Developed by [Your Name]
+- Developed by samson
 - 2025 | Smart Transport Project
